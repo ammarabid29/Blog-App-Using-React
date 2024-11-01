@@ -1,0 +1,1 @@
+This is my first mega project using react and it's a Blog application.
